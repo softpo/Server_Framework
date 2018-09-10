@@ -95,5 +95,7 @@ django_app = Application(urls)
 #     http_server.bind(8000)
 #     http_server.start()
 
+print('Hello World')
+
 
 
